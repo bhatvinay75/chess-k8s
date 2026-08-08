@@ -31,7 +31,7 @@ images:
   newTag: commit-35298ef
 - name: chess-http-server
   newName: ghcr.io/bhatvinay75/chess-http-server
-  newTag: commit-7e2a6e0
+  newTag: commit-7b1243b
 - name: chess-matchmaker
   newName: ghcr.io/bhatvinay75/chess-matchmaker
   newTag: commit-35298ef
@@ -43,7 +43,7 @@ images:
   newTag: commit-35298ef
 - name: chess-web
   newName: ghcr.io/bhatvinay75/chess-web
-  newTag: commit-35298ef
+  newTag: commit-7b1243b
 - name: chess-ws-server
   newName: ghcr.io/bhatvinay75/chess-ws-server
   newTag: commit-35298ef
