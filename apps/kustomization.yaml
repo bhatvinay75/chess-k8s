@@ -43,7 +43,7 @@ images:
   newTag: commit-063c81e
 - name: chess-web
   newName: ghcr.io/bhatvinay75/chess-web
-  newTag: commit-ff38267
+  newTag: commit-c9f9a85
 - name: chess-ws-server
   newName: ghcr.io/bhatvinay75/chess-ws-server
   newTag: commit-ff38267
